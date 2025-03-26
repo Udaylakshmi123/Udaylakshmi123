@@ -13,4 +13,4 @@ Feel free to reach out to me :
 ✉️ udaylakshmi789@gmail.com
 
 💻 Tech Stack:
-React, Angular, JavaScript, TypeScript, NodeJs, MySQL, MongoDB, Jira, Jenkins, OpenShift, Bitbucket, Postman, Parcel, Babel, Webpack, Firebase, Vercel, HTML, CSS, Bootstrap, Tailwind CSS, Material UI
+React, Angular, JavaScript, TypeScript, NodeJs, MySQL, MongoDB, Jira, Jenkins, OpenShift, Bitbucket, Postman, Parcel, Babel, Webpack, Vite, Firebase, Vercel, HTML, CSS, Bootstrap, Tailwind CSS, Material UI
